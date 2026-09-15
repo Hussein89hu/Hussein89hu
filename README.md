@@ -10,12 +10,13 @@
 
 ---
 
-👋 About Me
-I'm a Computer Engineering graduate (Al‑Wataniya Private University, 2026) who builds full-stack web applications — PHP & MySQL on the backend, HTML, CSS, and JavaScript on the frontend — and I'm equally into applied Machine Learning. I enjoy owning a project end to end: designing the database, building the API, shaping the interface that talks to it, and, when the problem calls for it, adding a model that learns from the data instead of just displaying it.
-Currently building: a production-style ML fraud-detection system
-Currently exploring: Android app development
-What I'm good at: turning ambiguous requirements — and messy data — into systems people can rely on
-How to reach me:
+### 👋 About Me
+I'm a **Computer Engineering graduate** (Al‑Wataniya Private University, 2026) who builds **full-stack web applications** — PHP & MySQL on the backend, HTML, CSS, and JavaScript on the frontend — and I'm equally into applied Machine Learning. I enjoy owning a project end to end: designing the database, building the API, shaping the interface that talks to it, and, when the problem calls for it, adding a model that learns from the data instead of just displaying it.
+
+- **Currently building:**: a production-style ML fraud-detection system
+- **Currently exploring:** Android app development, ML pipelines in production, and data analysis
+- **How to reach me:**
+
 <p align="center">
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-3B9EFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
@@ -36,7 +37,7 @@ How to reach me:
 
 ---
 
-🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
 
 **Languages**
 
@@ -78,7 +79,7 @@ How to reach me:
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hussein-Alahmad&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub stats" />
