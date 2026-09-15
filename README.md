@@ -11,7 +11,7 @@
 ---
 
 ### 👋 About Me
-I'm a **Computer Engineering graduate** (Al‑Wataniya Private University, 2026) who builds **full-stack web applications** — PHP & MySQL on the backend, HTML, CSS, and JavaScript on the frontend — and I'm equally into applied Machine Learning. I enjoy owning a project end to end: designing the database, building the API, shaping the interface that talks to it, and, when the problem calls for it, adding a model that learns from the data instead of just displaying it.
+I'm a **Computer Engineering graduate** (Al‑Wataniya Private University, 2026) who builds **full-stack web applications** — PHP & MySQL on the backend, HTML, CSS, and JavaScript on the frontend — and I'm equally into applied Machine Learning. I enjoy owning a project end to end: designing the database, building the API, shaping the interface that talks to it, and, when the problem calls for it.
 
 - **Currently building:**: a production-style ML fraud-detection system
 - **Currently exploring:** Android app development, ML pipelines in production, and data analysis
