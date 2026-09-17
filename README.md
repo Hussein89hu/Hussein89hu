@@ -11,10 +11,12 @@
 ---
 
 ### 👋 About Me
-I'm a **Computer Engineering graduate** (Al‑Wataniya Private University, 2026) who builds **full-stack web applications** — PHP & MySQL on the backend, HTML, CSS, and JavaScript on the frontend — and I'm equally into applied Machine Learning. I enjoy owning a project end to end: designing the database, building the API, shaping the interface that talks to it, and, when the problem calls for it.
+
+I'm a **Computer Engineering graduate** (Al‑Wataniya Private University, 2026) who builds **full-stack web applications** — **PHP & MySQL** on the backend, **HTML, CSS, and JavaScript** on the frontend — and I'm equally into **applied Machine Learning**. I enjoy owning a project end to end: designing the database, building the API, shaping the interface that talks to it, and, when the problem calls for it, adding a model that learns from the data instead of just displaying it.
 
 - **Currently building:** a production-style ML fraud-detection system
-- **Currently exploring:** Android app development, ML pipelines in production, and data analysis
+- **Currently exploring:** Android app development
+- **What I'm good at:** turning ambiguous requirements — and messy data — into systems people can rely on
 - **How to reach me:**
 
 <p align="center">
@@ -24,7 +26,7 @@ I'm a **Computer Engineering graduate** (Al‑Wataniya Private University, 2026)
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" />
   </a>
-  <a href="https://www.linkedin.com/in/hussein-alahmad-979816226" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&to=huusein.com@gmail.com" target="_blank">
